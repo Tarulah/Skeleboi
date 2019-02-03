@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: a121ed92b987100469d48f498210c103
+timeCreated: 1462872080
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: game_over_namiskuukkelit_0
+    21300002: game_over_namiskuukkelit_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: game_over_namiskuukkelit_0
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 452
+        width: 795
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.63336, y: -53.93332}
+        - {x: 200.63336, y: 50.06668}
+        - {x: 198.63336, y: 53.06668}
+        - {x: 197.63336, y: 56.06668}
+        - {x: 193.63336, y: 60.06668}
+        - {x: 188.63336, y: 62.06668}
+        - {x: -184.36664, y: 62.06668}
+        - {x: -187.36664, y: 61.06668}
+        - {x: -193.36664, y: 57.06668}
+        - {x: -197.36664, y: 48.06668}
+        - {x: -197.36664, y: -51.93332}
+        - {x: -193.36664, y: -60.93332}
+        - {x: -191.36664, y: -62.93332}
+        - {x: -184.36664, y: -65.93332}
+        - {x: 188.63336, y: -65.93332}
+        - {x: 193.63336, y: -63.93332}
+        - {x: 197.63336, y: -59.93332}
+        - {x: 198.63336, y: -56.93332}
+    - name: game_over_namiskuukkelit_1
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 168
+        width: 778
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.46674, y: 51.100006}
+        - {x: 198.46674, y: 54.100006}
+        - {x: 198.46674, y: 56.100006}
+        - {x: 194.46674, y: 62.100006}
+        - {x: 185.46674, y: 66.100006}
+        - {x: -183.53326, y: 66.100006}
+        - {x: -190.53326, y: 63.100006}
+        - {x: -195.53326, y: 57.100006}
+        - {x: -195.53326, y: 55.100006}
+        - {x: -197.53326, y: 53.100006}
+        - {x: -197.53326, y: -50.899994}
+        - {x: -195.53326, y: -53.899994}
+        - {x: -194.53326, y: -56.899994}
+        - {x: -190.53326, y: -60.899994}
+        - {x: -185.53326, y: -62.899994}
+        - {x: 187.46674, y: -62.899994}
+        - {x: 190.46674, y: -61.899994}
+        - {x: 197.46674, y: -55.899994}
+        - {x: 200.46674, y: -48.899994}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

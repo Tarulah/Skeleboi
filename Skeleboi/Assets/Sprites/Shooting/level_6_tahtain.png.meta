@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: 8f4018e3f13c03e44921ebbb841ecdba
+timeCreated: 1461669268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level_6_tahtain_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: level_6_tahtain_0
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 938
+        width: 676
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.93335, y: 128.2667}
+        - {x: 13.93335, y: 185.2667}
+        - {x: -80.06665, y: 185.2667}
+        - {x: -180.06665, y: 153.2667}
+        - {x: -180.06665, y: -89.73331}
+        - {x: -160.06665, y: -184.7333}
+        - {x: 23.93335, y: -184.7333}
+        - {x: 130.93335, y: -115.73331}
+        - {x: 181.93335, y: -20.733307}
+        - {x: 181.93335, y: 6.266693}
+        - {x: 118.93335, y: 95.26669}
+      - - {x: -81.06665, y: -0.7333069}
+        - {x: -84.06665, y: 2.266693}
+        - {x: 6.9333496, y: 86.26669}
+        - {x: 9.93335, y: 89.26669}
+        - {x: -27.06665, y: -53.733307}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

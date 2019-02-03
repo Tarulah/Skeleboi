@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 13beb4fb93f51fa469eda2a4fd0901c4
+timeCreated: 1463996034
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 7_skeleboi_paa_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 7_skeleboi_paa_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1428
+        width: 994
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.766663, y: -150.89996}
+        - {x: -41.766663, y: -152.89996}
+        - {x: -27.766663, y: -150.89996}
+        - {x: -18.766663, y: -143.89996}
+        - {x: -9.766663, y: -151.89996}
+        - {x: 6.2333374, y: -148.89996}
+        - {x: 15.233337, y: -151.89996}
+        - {x: 33.233337, y: -154.89996}
+        - {x: 46.233337, y: -157.89996}
+        - {x: 52.233337, y: -157.89996}
+        - {x: 73.23334, y: -156.89996}
+        - {x: 79.23334, y: -157.89996}
+        - {x: 96.23334, y: -157.89996}
+        - {x: 105.23334, y: -154.89996}
+        - {x: 113.23334, y: -157.89996}
+        - {x: 135.23334, y: -157.89996}
+        - {x: 154.23334, y: -153.89996}
+        - {x: 160.23334, y: -157.89996}
+        - {x: 222.23334, y: -157.89996}
+        - {x: 228.23334, y: -153.89996}
+        - {x: 247.23334, y: -134.89996}
+        - {x: 257.23334, y: -117.89996}
+        - {x: 265.23334, y: -93.89996}
+        - {x: 266.23334, y: -85.89996}
+        - {x: 266.23334, y: -15.899963}
+        - {x: 262.23334, y: -1.8999634}
+        - {x: 257.23334, y: 10.100037}
+        - {x: 251.23334, y: 24.100037}
+        - {x: 233.23334, y: 57.100037}
+        - {x: 220.23334, y: 91.10004}
+        - {x: 206.23334, y: 112.10004}
+        - {x: 188.23334, y: 129.10004}
+        - {x: 158.23334, y: 146.10004}
+        - {x: 133.23334, y: 156.10004}
+        - {x: 102.23334, y: 159.10004}
+        - {x: -37.766663, y: 159.10004}
+        - {x: -60.766663, y: 155.10004}
+        - {x: -99.76666, y: 147.10004}
+        - {x: -155.76666, y: 123.10004}
+        - {x: -186.76666, y: 106.10004}
+        - {x: -205.76666, y: 93.10004}
+        - {x: -228.76666, y: 71.10004}
+        - {x: -243.76666, y: 51.100037}
+        - {x: -260.76666, y: 15.100037}
+        - {x: -264.76666, y: -0.8999634}
+        - {x: -264.76666, y: -59.899963}
+        - {x: -255.76666, y: -94.89996}
+        - {x: -247.76666, y: -115.89996}
+        - {x: -237.76666, y: -134.89996}
+        - {x: -226.76666, y: -145.89996}
+        - {x: -212.76666, y: -151.89996}
+        - {x: -182.76666, y: -149.89996}
+        - {x: -166.76666, y: -154.89996}
+        - {x: -149.76666, y: -157.89996}
+        - {x: -96.76666, y: -157.89996}
+        - {x: -77.76666, y: -151.89996}
+        - {x: -61.766663, y: -137.89996}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

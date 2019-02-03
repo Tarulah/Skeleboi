@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 0956240aaaac9df4dbbd79f62c6d6f1c
+timeCreated: 1463993592
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level7_planeetat_0
+    21300002: level7_planeetat_1
+    21300004: level7_planeetat_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: level7_planeetat_0
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1703
+        width: 448
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.466675, y: 65.76672}
+        - {x: 46.466675, y: 85.76672}
+        - {x: -46.533325, y: 85.76672}
+        - {x: -119.533325, y: -4.2332764}
+        - {x: -119.533325, y: -45.233276}
+        - {x: -117.533325, y: -49.233276}
+        - {x: -101.533325, y: -52.233276}
+        - {x: -32.533325, y: -85.23328}
+        - {x: 40.466675, y: -85.23328}
+        - {x: 66.466675, y: -79.23328}
+        - {x: 120.466675, y: 6.7667236}
+        - {x: 120.466675, y: 56.766724}
+    - name: level7_planeetat_1
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 996
+        width: 328
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.80005, y: 87.70001}
+        - {x: -43.19995, y: 87.70001}
+        - {x: -85.19995, y: 74.70001}
+        - {x: -87.19995, y: 66.70001}
+        - {x: -87.19995, y: -34.299988}
+        - {x: -81.19995, y: -62.299988}
+        - {x: -35.19995, y: -87.29999}
+        - {x: 34.80005, y: -87.29999}
+        - {x: 71.80005, y: -59.299988}
+        - {x: 88.80005, y: -29.299988}
+        - {x: 88.80005, y: 54.700012}
+    - name: level7_planeetat_2
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 447
+        width: 374
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.1001, y: 28.90001}
+        - {x: 98.1001, y: 53.90001}
+        - {x: 52.100098, y: 95.90001}
+        - {x: 38.100098, y: 100.90001}
+        - {x: -32.899902, y: 100.90001}
+        - {x: -47.899902, y: 98.90001}
+        - {x: -82.8999, y: 64.90001}
+        - {x: -99.8999, y: 38.90001}
+        - {x: -99.8999, y: -41.09999}
+        - {x: -69.8999, y: -100.09999}
+        - {x: 40.100098, y: -100.09999}
+        - {x: 44.100098, y: -98.09999}
+        - {x: 90.1001, y: -59.09999}
+        - {x: 101.1001, y: -34.09999}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 6268c0ecba0bd32498f4171a57ba7958
+timeCreated: 1474474992
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 9level_skeleboi_ympyrat_0
+    21300002: 9level_skeleboi_ympyrat_1
+    21300004: 9level_skeleboi_ympyrat_2
+    21300006: 9level_skeleboi_ympyrat_3
+    21300008: 9level_skeleboi_ympyrat_4
+    21300010: 9level_skeleboi_ympyrat_5
+    21300012: 9level_skeleboi_ympyrat_6
+    21300014: 9level_skeleboi_ympyrat_7
+    21300016: 9level_skeleboi_ympyrat_8
+    21300018: 9level_skeleboi_ympyrat_9
+    21300020: 9level_skeleboi_ympyrat_10
+    21300022: 9level_skeleboi_ympyrat_11
+    21300024: 9level_skeleboi_ympyrat_12
+    21300026: 9level_skeleboi_ympyrat_13
+    21300028: 9level_skeleboi_ympyrat_14
+    21300030: 9level_skeleboi_ympyrat_15
+    21300032: 9level_skeleboi_ympyrat_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_0
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1782
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_1
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1925
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1206
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1261
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1207
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_5
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1340
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1088
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1057
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_8
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1077
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_9
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1158
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 597
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 757
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_12
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 603
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 382
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 423
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 192
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9level_skeleboi_ympyrat_16
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 258
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

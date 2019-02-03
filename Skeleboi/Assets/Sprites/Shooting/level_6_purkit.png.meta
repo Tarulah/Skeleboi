@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: ad6c4dd6d64f5874583a738d5a664bfe
+timeCreated: 1461670265
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level_6_purkit_0
+    21300002: level_6_purkit_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: level_6_purkit_0
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 352
+        width: 575
+        height: 689
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.66669, y: -77.76666}
+        - {x: 130.66669, y: -28.766663}
+        - {x: 131.66669, y: 53.233337}
+        - {x: 131.66669, y: 76.23334}
+        - {x: 114.66669, y: 98.23334}
+        - {x: 78.66669, y: 126.23334}
+        - {x: 82.66669, y: 143.23334}
+        - {x: 78.66669, y: 168.23334}
+        - {x: 9.666687, y: 168.23334}
+        - {x: -21.333313, y: 164.23334}
+        - {x: -28.333313, y: 156.23334}
+        - {x: -33.333313, y: 125.23334}
+        - {x: -46.333313, y: 121.23334}
+        - {x: -72.33331, y: 109.23334}
+        - {x: -84.33331, y: 115.23334}
+        - {x: -97.33331, y: 115.23334}
+        - {x: -106.33331, y: 101.23334}
+        - {x: -113.33331, y: 73.23334}
+        - {x: -117.33331, y: 64.23334}
+        - {x: -123.33331, y: -2.7666626}
+        - {x: -124.33331, y: -40.766663}
+        - {x: -124.33331, y: -145.76666}
+        - {x: -123.33331, y: -159.76666}
+        - {x: -108.33331, y: -171.76666}
+        - {x: -44.333313, y: -174.76666}
+        - {x: 19.666687, y: -174.76666}
+        - {x: 75.66669, y: -160.76666}
+        - {x: 122.66669, y: -143.76666}
+        - {x: 127.66669, y: -136.76666}
+    - name: level_6_purkit_1
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 271
+        width: 547
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.900024, y: -109.96666}
+        - {x: 124.900024, y: -76.96666}
+        - {x: 125.900024, y: 10.03334}
+        - {x: 125.900024, y: 73.03334}
+        - {x: 121.900024, y: 83.03334}
+        - {x: 92.900024, y: 108.03334}
+        - {x: 73.900024, y: 120.03334}
+        - {x: 74.900024, y: 158.03334}
+        - {x: 65.900024, y: 165.03334}
+        - {x: 34.900024, y: 165.03334}
+        - {x: 15.900024, y: 164.03334}
+        - {x: -27.099976, y: 161.03334}
+        - {x: -35.099976, y: 151.03334}
+        - {x: -34.099976, y: 121.03334}
+        - {x: -46.099976, y: 121.03334}
+        - {x: -100.099976, y: 112.03334}
+        - {x: -107.099976, y: 105.03334}
+        - {x: -111.099976, y: 93.03334}
+        - {x: -111.099976, y: 81.03334}
+        - {x: -123.099976, y: 63.03334}
+        - {x: -130.09998, y: -33.96666}
+        - {x: -130.09998, y: -112.96666}
+        - {x: -129.09998, y: -151.96666}
+        - {x: -126.099976, y: -165.96666}
+        - {x: -111.099976, y: -173.96666}
+        - {x: -82.099976, y: -176.96666}
+        - {x: 11.900024, y: -176.96666}
+        - {x: 77.900024, y: -160.96666}
+        - {x: 113.900024, y: -148.96666}
+        - {x: 120.900024, y: -142.96666}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

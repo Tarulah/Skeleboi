@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 49a150dd759dead488a411123dfe6911
+timeCreated: 1464343027
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 9level_skeleboi_murtumat_0
+    21300002: 9level_skeleboi_murtumat_1
+    21300004: 9level_skeleboi_murtumat_2
+    21300006: 9level_skeleboi_murtumat_3
+    21300008: 9level_skeleboi_murtumat_4
+    21300010: 9level_skeleboi_murtumat_5
+    21300012: 9level_skeleboi_murtumat_6
+    21300014: 9level_skeleboi_murtumat_7
+    21300016: 9level_skeleboi_murtumat_8
+    21300018: 9level_skeleboi_murtumat_9
+    21300020: 9level_skeleboi_murtumat_10
+    21300022: 9level_skeleboi_murtumat_11
+    21300024: 9level_skeleboi_murtumat_12
+    21300026: 9level_skeleboi_murtumat_13
+    21300028: 9level_skeleboi_murtumat_14
+    21300030: 9level_skeleboi_murtumat_15
+    21300032: 9level_skeleboi_murtumat_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 9level_skeleboi_murtumat_0
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1599
+        width: 205
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.066711, y: 26.300049}
+        - {x: 25.066711, y: 32.30005}
+        - {x: 17.066711, y: 41.30005}
+        - {x: 23.066711, y: 57.30005}
+        - {x: 35.06671, y: 38.30005}
+        - {x: 45.06671, y: 31.300049}
+        - {x: 51.06671, y: 35.30005}
+        - {x: 51.06671, y: 54.30005}
+        - {x: 43.06671, y: 100.30005}
+        - {x: 39.06671, y: 105.30005}
+        - {x: 22.066711, y: 105.30005}
+        - {x: -45.93329, y: 57.30005}
+        - {x: -45.93329, y: -34.69995}
+        - {x: -27.933289, y: -97.69995}
+        - {x: -22.933289, y: -99.69995}
+        - {x: -13.933289, y: -99.69995}
+        - {x: -11.933289, y: -96.69995}
+        - {x: -4.9332886, y: -78.69995}
+        - {x: 12.066711, y: -25.699951}
+    - name: 9level_skeleboi_murtumat_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1713
+        width: 221
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.966644, y: 46.100037}
+        - {x: -45.966644, y: -5.8999634}
+        - {x: -42.966644, y: -8.899963}
+        - {x: -36.966644, y: -7.8999634}
+        - {x: -32.966644, y: -2.8999634}
+        - {x: 28.033356, y: -40.899963}
+        - {x: 38.033356, y: -42.899963}
+        - {x: 52.033356, y: -42.899963}
+        - {x: 52.033356, y: -6.8999634}
+        - {x: -30.966644, y: 46.100037}
+    - name: 9level_skeleboi_murtumat_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1299
+        width: 98
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.8333435, y: 75.30005}
+        - {x: 9.8333435, y: 73.30005}
+        - {x: -14.1666565, y: 29.300049}
+        - {x: -14.1666565, y: -72.69995}
+        - {x: 3.8333435, y: -72.69995}
+        - {x: 21.833344, y: 28.300049}
+        - {x: 21.833344, y: 75.30005}
+    - name: 9level_skeleboi_murtumat_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1234
+        width: 136
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.366653, y: 11.133362}
+        - {x: -24.366653, y: 10.133362}
+        - {x: -24.366653, y: -6.866638}
+        - {x: -1.3666534, y: -11.866638}
+        - {x: 33.633347, y: -11.866638}
+        - {x: 33.633347, y: 6.133362}
+        - {x: 9.633347, y: 11.133362}
+    - name: 9level_skeleboi_murtumat_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1139
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.633316, y: 4.966675}
+        - {x: 2.366684, y: -16.033325}
+        - {x: 15.366684, y: -16.033325}
+        - {x: 15.366684, y: -6.033325}
+        - {x: 7.366684, y: 9.966675}
+        - {x: -5.633316, y: 15.966675}
+        - {x: -18.633316, y: 15.966675}
+        - {x: -20.633316, y: 14.966675}
+    - name: 9level_skeleboi_murtumat_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1120
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.833313, y: 13.333374}
+        - {x: -20.833313, y: 13.333374}
+        - {x: -22.833313, y: 7.333374}
+        - {x: -13.833313, y: -5.666626}
+        - {x: 6.166687, y: -10.666626}
+        - {x: 25.166687, y: -10.666626}
+        - {x: 25.166687, y: -1.666626}
+        - {x: 12.166687, y: 9.333374}
+    - name: 9level_skeleboi_murtumat_6
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1042
+        width: 75
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.2999878, y: 54.233337}
+        - {x: -6.299988, y: 48.233337}
+        - {x: -8.299988, y: 14.233337}
+        - {x: -8.299988, y: -54.766663}
+        - {x: 1.7000122, y: -54.766663}
+        - {x: 5.700012, y: -53.766663}
+        - {x: 10.700012, y: -31.766663}
+        - {x: 10.700012, y: 52.233337}
+        - {x: 2.7000122, y: 54.233337}
+    - name: 9level_skeleboi_murtumat_7
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1137
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9level_skeleboi_murtumat_8
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1197
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9level_skeleboi_murtumat_9
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1370
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9level_skeleboi_murtumat_10
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 807
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.966705, y: 28.900024}
+        - {x: 9.966705, y: 28.900024}
+        - {x: -22.033295, y: -1.0999756}
+        - {x: -22.033295, y: -30.099976}
+        - {x: -9.033295, y: -30.099976}
+        - {x: 15.966705, y: 1.9000244}
+        - {x: 24.966705, y: 14.900024}
+        - {x: 24.966705, y: 26.900024}
+    - name: 9level_skeleboi_murtumat_11
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 609
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.2000122, y: 23.800018}
+        - {x: -17.799988, y: -6.1999817}
+        - {x: -17.799988, y: -20.199982}
+        - {x: -16.799988, y: -22.199982}
+        - {x: -10.799988, y: -22.199982}
+        - {x: 15.200012, y: -1.1999817}
+        - {x: 16.200012, y: 5.8000183}
+        - {x: 16.200012, y: 23.800018}
+    - name: 9level_skeleboi_murtumat_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 403
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9level_skeleboi_murtumat_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 255
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.966644, y: 1}
+        - {x: 2.0333557, y: -21}
+        - {x: 35.033356, y: -21}
+        - {x: 35.033356, y: -8}
+        - {x: 19.033356, y: 20}
+        - {x: 11.033356, y: 21}
+        - {x: -32.966644, y: 21}
+    - name: 9level_skeleboi_murtumat_14
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 610
+        width: 61
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.366638, y: 32.333344}
+        - {x: -10.366638, y: -14.6666565}
+        - {x: -3.3666382, y: -27.666656}
+        - {x: -1.3666382, y: -30.666656}
+        - {x: 9.633362, y: -30.666656}
+        - {x: 9.633362, y: 32.333344}
+    - name: 9level_skeleboi_murtumat_15
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 463
+        width: 42
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9level_skeleboi_murtumat_16
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 321
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.100037, y: 23.700012}
+        - {x: -16.899963, y: 7.700012}
+        - {x: -16.899963, y: -21.299988}
+        - {x: -13.899963, y: -22.299988}
+        - {x: -3.8999634, y: -22.299988}
+        - {x: 12.100037, y: -9.299988}
+        - {x: 22.100037, y: 12.700012}
+        - {x: 22.100037, y: 23.700012}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

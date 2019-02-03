@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 96ac5349f0b0d8646b4390821f0f295a
+timeCreated: 1463737128
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level_6_purkit_iloisempijavihaisempi_0
+    21300002: level_6_purkit_iloisempijavihaisempi_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: level_6_purkit_iloisempijavihaisempi_0
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 367
+        width: 477
+        height: 641
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126.50006, y: 142.16669}
+        - {x: 127.50006, y: 164.16669}
+        - {x: 127.50006, y: 256.1667}
+        - {x: 109.50006, y: 274.1667}
+        - {x: 76.50006, y: 302.1667}
+        - {x: 76.50006, y: 335.1667}
+        - {x: 71.50006, y: 341.1667}
+        - {x: 68.50006, y: 343.1667}
+        - {x: -4.499939, y: 343.1667}
+        - {x: -28.499939, y: 338.1667}
+        - {x: -32.49994, y: 331.1667}
+        - {x: -38.49994, y: 302.1667}
+        - {x: -76.49994, y: 287.1667}
+        - {x: -88.49994, y: 291.1667}
+        - {x: -101.49994, y: 291.1667}
+        - {x: -110.49994, y: 277.1667}
+        - {x: -116.49994, y: 249.16669}
+        - {x: -121.49994, y: 240.16669}
+        - {x: -127.49994, y: 173.16669}
+        - {x: -127.49994, y: 22.166687}
+        - {x: -121.49994, y: 10.166687}
+        - {x: -102.49994, y: 3.166687}
+        - {x: -66.49994, y: 1.166687}
+        - {x: 15.500061, y: 1.166687}
+        - {x: 71.50006, y: 16.166687}
+        - {x: 118.50006, y: 32.166687}
+        - {x: 123.50006, y: 39.166687}
+    - name: level_6_purkit_iloisempijavihaisempi_1
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 274
+        width: 500
+        height: 649
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.66675, y: 52.700012}
+        - {x: 125.66675, y: 101.70001}
+        - {x: 126.66675, y: 188.70001}
+        - {x: 126.66675, y: 251.70001}
+        - {x: 122.66675, y: 261.7}
+        - {x: 93.66675, y: 286.7}
+        - {x: 74.66675, y: 298.7}
+        - {x: 75.66675, y: 336.7}
+        - {x: 66.66675, y: 343.7}
+        - {x: 35.666748, y: 343.7}
+        - {x: 16.666748, y: 342.7}
+        - {x: -26.333252, y: 339.7}
+        - {x: -34.333252, y: 329.7}
+        - {x: -33.333252, y: 299.7}
+        - {x: -45.333252, y: 299.7}
+        - {x: -99.33325, y: 290.7}
+        - {x: -106.33325, y: 283.7}
+        - {x: -110.33325, y: 271.7}
+        - {x: -122.33325, y: 237.70001}
+        - {x: -126.33325, y: 182.70001}
+        - {x: -129.33325, y: 147.70001}
+        - {x: -129.33325, y: 65.70001}
+        - {x: -128.33325, y: 26.700012}
+        - {x: -125.33325, y: 12.700012}
+        - {x: -110.33325, y: 4.700012}
+        - {x: -81.33325, y: 1.7000122}
+        - {x: 12.666748, y: 1.7000122}
+        - {x: 78.66675, y: 17.700012}
+        - {x: 114.66675, y: 29.700012}
+        - {x: 121.66675, y: 35.700012}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

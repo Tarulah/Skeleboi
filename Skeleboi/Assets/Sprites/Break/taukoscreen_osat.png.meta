@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: a59ccc97d20b20c4fab1375661c4bac8
+timeCreated: 1464942177
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: taukoscreen_osat_0
+    21300002: taukoscreen_osat_1
+    21300004: taukoscreen_osat_2
+    21300006: taukoscreen_osat_3
+    21300008: taukoscreen_osat_4
+    21300010: taukoscreen_osat_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: taukoscreen_osat_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1736
+        width: 156
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7682006, y: 0.25871295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.9476, y: 28.305054}
+        - {x: -48.9476, y: 19.305054}
+        - {x: -48.9476, y: 10.305054}
+        - {x: -41.9476, y: 6.3050537}
+        - {x: -13.947601, y: -6.6949463}
+        - {x: 7.0523987, y: -6.6949463}
+        - {x: 7.0523987, y: 13.305054}
+        - {x: -13.947601, y: 28.305054}
+    - name: taukoscreen_osat_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1626
+        width: 125
+        height: 82
+      alignment: 9
+      pivot: {x: 0.769084, y: 0.21987097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.372253, y: 25.45111}
+        - {x: -46.372253, y: 25.45111}
+        - {x: -48.372253, y: 21.45111}
+        - {x: -48.372253, y: 10.451111}
+        - {x: -42.372253, y: 4.451111}
+        - {x: -7.3722534, y: -6.548889}
+        - {x: 3.6277466, y: -6.548889}
+        - {x: 7.6277466, y: -5.548889}
+        - {x: 7.6277466, y: 11.451111}
+        - {x: -9.372253, y: 24.45111}
+    - name: taukoscreen_osat_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1515
+        width: 124
+        height: 91
+      alignment: 9
+      pivot: {x: 0.77125376, y: 0.39181888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.838913, y: 16.750427}
+        - {x: -45.838913, y: 15.750427}
+        - {x: -45.838913, y: -3.2495728}
+        - {x: -31.838913, y: -6.2495728}
+        - {x: 8.161087, y: -6.2495728}
+        - {x: 8.161087, y: 7.7504272}
+        - {x: 4.161087, y: 16.750427}
+    - name: taukoscreen_osat_3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1706
+        width: 125
+        height: 93
+      alignment: 9
+      pivot: {x: 0.30967188, y: 0.15597042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.3219, y: 29.430542}
+        - {x: -0.6781006, y: 14.430542}
+        - {x: -6.6781006, y: 10.430542}
+        - {x: -6.6781006, y: 0.430542}
+        - {x: -4.6781006, y: -4.569458}
+        - {x: 8.321899, y: -4.569458}
+        - {x: 36.3219, y: 17.430542}
+        - {x: 36.3219, y: 28.430542}
+        - {x: 31.3219, y: 29.430542}
+    - name: taukoscreen_osat_4
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1633
+        width: 94
+        height: 49
+      alignment: 9
+      pivot: {x: 0.14217556, y: 0.33257684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: taukoscreen_osat_5
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1506
+        width: 131
+        height: 76
+      alignment: 9
+      pivot: {x: 0.29960248, y: 0.43523368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.93219, y: 9.325195}
+        - {x: -5.93219, y: 7.3251953}
+        - {x: -5.93219, y: -2.6748047}
+        - {x: -3.93219, y: -7.6748047}
+        - {x: -2.93219, y: -9.674805}
+        - {x: 42.06781, y: -9.674805}
+        - {x: 42.06781, y: 3.3251953}
+        - {x: 36.06781, y: 9.325195}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

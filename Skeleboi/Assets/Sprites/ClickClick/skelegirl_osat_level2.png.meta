@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 6712a80aac8d10941ad4263be7474527
+timeCreated: 1459506507
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skelegirl_osat_level2_0
+    21300002: skelegirl_osat_level2_1
+    21300004: skelegirl_osat_level2_2
+    21300006: skelegirl_osat_level2_3
+    21300008: skelegirl_osat_level2_4
+    21300010: skelegirl_osat_level2_5
+    21300012: skelegirl_osat_level2_6
+    21300014: skelegirl_osat_level2_7
+    21300016: skelegirl_osat_level2_8
+    21300018: skelegirl_osat_level2_9
+    21300020: skelegirl_osat_level2_10
+    21300022: skelegirl_osat_level2_11
+    21300024: skelegirl_osat_level2_12
+    21300026: skelegirl_osat_level2_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skelegirl_osat_level2_0
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1154
+        width: 132
+        height: 103
+      alignment: 9
+      pivot: {x: 0.9086637, y: 0.119110994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.003296, y: 49.390198}
+        - {x: -64.003296, y: 43.390198}
+        - {x: -64.003296, y: 7.3901978}
+        - {x: -55.003296, y: -6.6098022}
+        - {x: -5.003296, y: -6.6098022}
+        - {x: 6.996704, y: -2.6098022}
+        - {x: 6.996704, y: 42.390198}
+        - {x: -6.003296, y: 49.390198}
+    - name: skelegirl_osat_level2_1
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1154
+        width: 890
+        height: 579
+      alignment: 9
+      pivot: {x: 0.49265328, y: 0.031342763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.845947, y: -2.8119507}
+        - {x: -6.8459473, y: 1.1880493}
+        - {x: 17.154053, y: 2.1880493}
+        - {x: 36.154053, y: 1.1880493}
+        - {x: 95.15405, y: -4.8119507}
+        - {x: 160.15405, y: -5.8119507}
+        - {x: 181.15405, y: 3.1880493}
+        - {x: 203.15405, y: 5.1880493}
+        - {x: 230.15405, y: 34.18805}
+        - {x: 242.15405, y: 61.18805}
+        - {x: 242.15405, y: 128.18805}
+        - {x: 235.15405, y: 165.18805}
+        - {x: 218.15405, y: 189.18805}
+        - {x: 218.15405, y: 232.18805}
+        - {x: 227.15405, y: 244.18805}
+        - {x: 226.15405, y: 253.18805}
+        - {x: 222.15405, y: 265.18805}
+        - {x: 204.15405, y: 275.18805}
+        - {x: 188.15405, y: 273.18805}
+        - {x: 175.15405, y: 270.18805}
+        - {x: 157.15405, y: 262.18805}
+        - {x: 151.15405, y: 257.18805}
+        - {x: 125.15405, y: 273.18805}
+        - {x: 117.15405, y: 285.18805}
+        - {x: 106.15405, y: 297.18805}
+        - {x: 99.15405, y: 300.18805}
+        - {x: 73.15405, y: 300.18805}
+        - {x: 56.154053, y: 284.18805}
+        - {x: 46.154053, y: 276.18805}
+        - {x: 20.154053, y: 283.18805}
+        - {x: -52.845947, y: 286.18805}
+        - {x: -103.84595, y: 279.18805}
+        - {x: -118.84595, y: 274.18805}
+        - {x: -145.84595, y: 264.18805}
+        - {x: -168.84595, y: 245.18805}
+        - {x: -178.84595, y: 230.18805}
+        - {x: -199.84595, y: 197.18805}
+        - {x: -232.84595, y: 129.18805}
+        - {x: -233.84595, y: 119.18805}
+        - {x: -233.84595, y: 69.18805}
+        - {x: -225.84595, y: 43.18805}
+        - {x: -211.84595, y: 20.18805}
+        - {x: -194.84595, y: 0.18804932}
+        - {x: -177.84595, y: -9.811951}
+        - {x: -142.84595, y: -9.811951}
+        - {x: -119.84595, y: 7.1880493}
+        - {x: -102.84595, y: -4.8119507}
+      - - {x: -53.845947, y: 293.18805}
+        - {x: -56.845947, y: 290.18805}
+        - {x: -55.845947, y: 287.18805}
+        - {x: -51.845947, y: 287.18805}
+        - {x: -49.845947, y: 288.18805}
+        - {x: -49.845947, y: 291.18805}
+        - {x: -50.845947, y: 293.18805}
+    - name: skelegirl_osat_level2_2
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 993
+        width: 139
+        height: 118
+      alignment: 9
+      pivot: {x: 0.88808346, y: 0.16752857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.73645, y: 53.52356}
+        - {x: -60.73645, y: 51.52356}
+        - {x: -65.73645, y: 41.52356}
+        - {x: -65.73645, y: 25.52356}
+        - {x: -63.73645, y: 18.52356}
+        - {x: -17.73645, y: -10.47644}
+        - {x: -0.7364502, y: -10.47644}
+        - {x: 9.26355, y: 6.5235596}
+        - {x: 9.26355, y: 29.52356}
+        - {x: -31.73645, y: 53.52356}
+    - name: skelegirl_osat_level2_3
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 858
+        width: 144
+        height: 169
+      alignment: 9
+      pivot: {x: 0.851905, y: 0.8772283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.359497, y: 10.099213}
+        - {x: -5.359497, y: 12.099213}
+        - {x: -19.359497, y: 12.099213}
+        - {x: -65.3595, y: -46.900787}
+        - {x: -65.3595, y: -65.90079}
+        - {x: -45.359497, y: -78.90079}
+        - {x: -32.359497, y: -78.90079}
+        - {x: 12.640503, y: -25.900787}
+        - {x: 12.640503, y: -6.9007874}
+    - name: skelegirl_osat_level2_4
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 705
+        width: 396
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.400024, y: 4.5000305}
+        - {x: 73.400024, y: 3.5000305}
+        - {x: 87.400024, y: 9.5000305}
+        - {x: 87.400024, y: 20.50003}
+        - {x: 86.400024, y: 26.50003}
+        - {x: 80.400024, y: 34.50003}
+        - {x: 68.400024, y: 37.50003}
+        - {x: 73.400024, y: 36.50003}
+        - {x: 81.400024, y: 34.50003}
+        - {x: 102.400024, y: 40.50003}
+        - {x: 105.400024, y: 103.50003}
+        - {x: -105.599976, y: 103.50003}
+        - {x: -105.599976, y: -103.49997}
+        - {x: 100.400024, y: -103.49997}
+        - {x: 106.400024, y: -73.49997}
+        - {x: 106.400024, y: -37.49997}
+        - {x: 71.400024, y: 2.5000305}
+    - name: skelegirl_osat_level2_5
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 965
+        width: 146
+        height: 148
+      alignment: 9
+      pivot: {x: 0.08573851, y: 0.8755287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.4239502, y: 11.024963}
+        - {x: -6.57605, y: -5.9750366}
+        - {x: -6.57605, y: -27.975037}
+        - {x: -5.57605, y: -28.975037}
+        - {x: 49.42395, y: -68.97504}
+        - {x: 72.42395, y: -68.97504}
+        - {x: 72.42395, y: -25.975037}
+        - {x: 40.42395, y: 11.024963}
+    - name: skelegirl_osat_level2_6
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 995
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: -0.0009411227, y: 0.69007766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.10437012, y: 15.448486}
+        - {x: -0.10437012, y: -20.551514}
+        - {x: 32.89563, y: -31.551514}
+        - {x: 63.89563, y: -31.551514}
+        - {x: 64.89563, y: -30.551514}
+        - {x: 66.89563, y: -25.551514}
+        - {x: 66.89563, y: 6.4484863}
+        - {x: 41.89563, y: 15.448486}
+    - name: skelegirl_osat_level2_7
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1017
+        width: 131
+        height: 101
+      alignment: 9
+      pivot: {x: 0.0757395, y: 0.12775202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.60852, y: 47.951782}
+        - {x: 9.6085205, y: 47.951782}
+        - {x: -5.3914795, y: 34.951782}
+        - {x: -5.3914795, y: 8.951782}
+        - {x: 0.6085205, y: -7.048218}
+        - {x: 53.60852, y: -7.048218}
+        - {x: 62.60852, y: -3.0482178}
+        - {x: 65.60852, y: 6.951782}
+        - {x: 65.60852, y: 37.951782}
+    - name: skelegirl_osat_level2_8
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 706
+        width: 116
+        height: 143
+      alignment: 9
+      pivot: {x: 0.7254702, y: 0.9229531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.848999, y: 6.776123}
+        - {x: -44.849, y: -29.223877}
+        - {x: -44.849, y: -64.22388}
+        - {x: -42.849, y: -67.22388}
+        - {x: -32.849, y: -70.22388}
+        - {x: -7.848999, y: -70.22388}
+        - {x: -3.848999, y: -67.22388}
+        - {x: 18.151001, y: -17.223877}
+        - {x: 18.151001, y: 6.776123}
+    - name: skelegirl_osat_level2_9
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 704
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.8223258, y: 0.86579734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.244019, y: 11.068512}
+        - {x: -62.24402, y: -24.931488}
+        - {x: -62.24402, y: -52.931488}
+        - {x: -60.24402, y: -55.931488}
+        - {x: -47.24402, y: -65.93149}
+        - {x: -18.244019, y: -65.93149}
+        - {x: 14.755981, y: -20.931488}
+        - {x: 14.755981, y: 1.068512}
+        - {x: 0.75598145, y: 11.068512}
+    - name: skelegirl_osat_level2_10
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 590
+        width: 131
+        height: 114
+      alignment: 9
+      pivot: {x: 0.11317316, y: 0.8154602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9263916, y: 12.486694}
+        - {x: -8.073608, y: 0.48669434}
+        - {x: -8.073608, y: -29.513306}
+        - {x: 22.926392, y: -49.513306}
+        - {x: 62.92639, y: -49.513306}
+        - {x: 62.92639, y: -16.513306}
+        - {x: 39.92639, y: 12.486694}
+    - name: skelegirl_osat_level2_11
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 535
+        width: 127
+        height: 112
+      alignment: 9
+      pivot: {x: 0.010892132, y: 0.7335227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.362305, y: -7.115753}
+        - {x: 24.362305, y: 16.884247}
+        - {x: 5.3623047, y: 16.884247}
+        - {x: -0.6376953, y: 6.884247}
+        - {x: -0.6376953, y: -24.115753}
+        - {x: 41.362305, y: -44.115753}
+        - {x: 62.362305, y: -44.115753}
+        - {x: 63.362305, y: -42.115753}
+        - {x: 68.362305, y: -26.115753}
+        - {x: 68.362305, y: -12.115753}
+    - name: skelegirl_osat_level2_12
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 425
+        width: 142
+        height: 112
+      alignment: 9
+      pivot: {x: 0.92593086, y: 0.90866417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.156982, y: 6.755783}
+        - {x: -68.15698, y: -7.244217}
+        - {x: -70.15698, y: -18.244217}
+        - {x: -70.15698, y: -54.244217}
+        - {x: -20.156982, y: -54.244217}
+        - {x: 6.8430176, y: -31.244217}
+        - {x: 6.8430176, y: 4.755783}
+        - {x: 1.8430176, y: 6.755783}
+    - name: skelegirl_osat_level2_13
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 445
+        width: 147
+        height: 111
+      alignment: 9
+      pivot: {x: 0.62232107, y: 1.0007055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.856567, y: 0.69158936}
+        - {x: -44.856567, y: -18.30841}
+        - {x: -48.856567, y: -32.30841}
+        - {x: -48.856567, y: -53.30841}
+        - {x: -44.856567, y: -59.30841}
+        - {x: 18.143433, y: -59.30841}
+        - {x: 31.143433, y: -36.30841}
+        - {x: 31.143433, y: 0.69158936}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

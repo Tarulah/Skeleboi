@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 7ee5b2ae6344dad4dae546c28ce957c6
+timeCreated: 1463996114
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 7_skeleboi_jalkojen_osat_0
+    21300002: 7_skeleboi_jalkojen_osat_1
+    21300004: 7_skeleboi_jalkojen_osat_2
+    21300006: 7_skeleboi_jalkojen_osat_3
+    21300008: 7_skeleboi_jalkojen_osat_4
+    21300010: 7_skeleboi_jalkojen_osat_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 7_skeleboi_jalkojen_osat_0
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1005
+        width: 91
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.533386, y: 45}
+        - {x: -16.466614, y: 45}
+        - {x: -24.466614, y: 41}
+        - {x: -24.466614, y: -37}
+        - {x: -20.466614, y: -45}
+        - {x: 19.533386, y: -45}
+        - {x: 23.533386, y: -39}
+        - {x: 23.533386, y: 36}
+        - {x: 11.533386, y: 44}
+    - name: 7_skeleboi_jalkojen_osat_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 997
+        width: 98
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.033325, y: 45.233337}
+        - {x: -23.033325, y: -45.766663}
+        - {x: 22.966675, y: -45.766663}
+        - {x: 26.966675, y: -37.766663}
+        - {x: 26.966675, y: 45.233337}
+    - name: 7_skeleboi_jalkojen_osat_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 639
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.399994, y: 38.80002}
+        - {x: -24.399994, y: -41.19998}
+        - {x: 22.600006, y: -41.19998}
+        - {x: 22.600006, y: 36.80002}
+        - {x: 19.600006, y: 38.80002}
+        - {x: 2.600006, y: 44.80002}
+        - {x: -11.399994, y: 44.80002}
+        - {x: -19.399994, y: 43.80002}
+    - name: 7_skeleboi_jalkojen_osat_3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 639
+        width: 85
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.300049, y: 44.30002}
+        - {x: -20.699951, y: 44.30002}
+        - {x: -20.699951, y: -39.69998}
+        - {x: -19.699951, y: -41.69998}
+        - {x: -0.6999512, y: -41.69998}
+        - {x: 23.300049, y: -31.699982}
+        - {x: 23.300049, y: 37.30002}
+        - {x: 15.300049, y: 43.30002}
+    - name: 7_skeleboi_jalkojen_osat_4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 353
+        width: 124
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.166687, y: 43.266678}
+        - {x: -2.833313, y: 45.266678}
+        - {x: -27.833313, y: 45.266678}
+        - {x: -32.833313, y: 38.266678}
+        - {x: -32.833313, y: 4.266678}
+        - {x: -27.833313, y: -21.733322}
+        - {x: -8.833313, y: -46.733322}
+        - {x: 19.166687, y: -46.733322}
+        - {x: 34.166687, y: -38.733322}
+        - {x: 34.166687, y: 5.266678}
+        - {x: 23.166687, y: 27.266678}
+    - name: 7_skeleboi_jalkojen_osat_5
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 356
+        width: 141
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.6000366, y: 43.866684}
+        - {x: -25.399963, y: 43.866684}
+        - {x: -35.399963, y: 37.866684}
+        - {x: -36.399963, y: 34.866684}
+        - {x: -36.399963, y: 7.866684}
+        - {x: -23.399963, y: -30.133316}
+        - {x: 4.6000366, y: -41.133316}
+        - {x: 27.600037, y: -41.133316}
+        - {x: 38.600037, y: -27.133316}
+        - {x: 38.600037, y: 17.866684}
+        - {x: 36.600037, y: 29.866684}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

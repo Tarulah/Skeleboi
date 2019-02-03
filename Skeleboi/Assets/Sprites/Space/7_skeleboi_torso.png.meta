@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: f284d2ce07fe51142a3d771a034f2a29
+timeCreated: 1463993443
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 7_skeleboi_torso_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 7_skeleboi_torso_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 981
+        width: 884
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155.16667, y: -3.7999878}
+        - {x: 192.16667, y: -4.799988}
+        - {x: 215.16667, y: -17.799988}
+        - {x: 234.16667, y: -9.799988}
+        - {x: 234.16667, y: 39.200012}
+        - {x: 229.16667, y: 53.200012}
+        - {x: 192.16667, y: 57.200012}
+        - {x: 148.16667, y: 81.20001}
+        - {x: 105.16667, y: 102.20001}
+        - {x: 107.16667, y: 134.20001}
+        - {x: 88.16667, y: 148.20001}
+        - {x: 65.16667, y: 150.20001}
+        - {x: -0.83332825, y: 150.20001}
+        - {x: -8.833328, y: 145.20001}
+        - {x: -32.83333, y: 96.20001}
+        - {x: -68.83333, y: 95.20001}
+        - {x: -70.83333, y: 131.20001}
+        - {x: -105.83333, y: 140.20001}
+        - {x: -176.83333, y: 146.20001}
+        - {x: -203.83333, y: 95.20001}
+        - {x: -223.83333, y: 71.20001}
+        - {x: -231.83333, y: -32.799988}
+        - {x: -231.83333, y: -92.79999}
+        - {x: -224.83333, y: -98.79999}
+        - {x: -180.83333, y: -103.79999}
+        - {x: -140.83333, y: -105.79999}
+        - {x: -88.83333, y: -125.79999}
+        - {x: -72.83333, y: -137.79999}
+        - {x: -49.83333, y: -136.79999}
+        - {x: -21.833328, y: -127.79999}
+        - {x: 1.1666718, y: -127.79999}
+        - {x: 25.166672, y: -148.79999}
+        - {x: 73.16667, y: -148.79999}
+        - {x: 102.16667, y: -125.79999}
+        - {x: 120.16667, y: -55.799988}
+        - {x: 134.16667, y: -55.799988}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: bb609c36b24a95145978a20957c90237
+timeCreated: 1463825922
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SkeleboiForAnimation_0
+    21300002: SkeleboiForAnimation_1
+    21300004: SkeleboiForAnimation_2
+    21300006: SkeleboiForAnimation_3
+    21300008: SkeleboiForAnimation_4
+    21300010: SkeleboiForAnimation_5
+    21300012: SkeleboiForAnimation_6
+    21300014: SkeleboiForAnimation_7
+    21300016: SkeleboiForAnimation_8
+    21300018: SkeleboiForAnimation_9
+    21300020: SkeleboiForAnimation_10
+    21300022: SkeleboiForAnimation_11
+    21300024: SkeleboiForAnimation_12
+    21300026: SkeleboiForAnimation_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SkeleboiForAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1135
+        width: 417
+        height: 410
+      alignment: 9
+      pivot: {x: 0.49715367, y: 0.74608094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.316513, y: -25.73819}
+        - {x: 34.316513, y: -23.73819}
+        - {x: 27.316513, y: -23.73819}
+        - {x: 40.316513, y: -23.73819}
+        - {x: 52.316513, y: -13.73819}
+        - {x: 56.316513, y: 4.2618103}
+        - {x: 56.316513, y: 19.26181}
+        - {x: 49.316513, y: 29.26181}
+        - {x: -34.683487, y: 29.26181}
+        - {x: -55.683487, y: 18.26181}
+        - {x: -55.683487, y: -17.73819}
+        - {x: -51.683487, y: -24.73819}
+        - {x: -43.683487, y: -30.73819}
+        - {x: -35.683487, y: -29.73819}
+        - {x: -41.683487, y: -45.73819}
+        - {x: -44.683487, y: -75.73819}
+        - {x: -28.683487, y: -81.73819}
+        - {x: 31.316513, y: -81.73819}
+        - {x: 43.316513, y: -78.73819}
+        - {x: 56.316513, y: -70.73819}
+        - {x: 56.316513, y: -43.73819}
+    - name: SkeleboiForAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1330
+        width: 97
+        height: 183
+      alignment: 9
+      pivot: {x: 0.60175127, y: 0.8775415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1142
+        width: 116
+        height: 120
+      alignment: 9
+      pivot: {x: 0.43010685, y: 0.9259379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1140
+        width: 96
+        height: 143
+      alignment: 9
+      pivot: {x: 0.36414084, y: 0.8919405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1503
+        width: 92
+        height: 177
+      alignment: 9
+      pivot: {x: 0.357122, y: 0.9200598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1326
+        width: 89
+        height: 130
+      alignment: 9
+      pivot: {x: 0.61077124, y: 0.8570604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1142
+        width: 103
+        height: 130
+      alignment: 9
+      pivot: {x: 0.42422634, y: 0.93921554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 786
+        width: 85
+        height: 153
+      alignment: 9
+      pivot: {x: 0.41932875, y: 0.8459852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 602
+        width: 76
+        height: 146
+      alignment: 9
+      pivot: {x: 0.45264032, y: 0.8780154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 397
+        width: 949
+        height: 584
+      alignment: 9
+      pivot: {x: 0.47298086, y: 0.043979697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.17098, y: 124.38423}
+        - {x: 65.17098, y: 142.38423}
+        - {x: 26.170982, y: 150.38423}
+        - {x: -47.829018, y: 150.38423}
+        - {x: -58.829018, y: 149.38423}
+        - {x: -89.82902, y: 132.38423}
+        - {x: -119.82902, y: 72.38423}
+        - {x: -119.82902, y: 21.384232}
+        - {x: -97.82902, y: -6.6157684}
+        - {x: 88.17098, y: -6.6157684}
+        - {x: 116.17098, y: -0.61576843}
+        - {x: 134.17099, y: 24.384232}
+        - {x: 134.17099, y: 85.38423}
+    - name: SkeleboiForAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 236
+        width: 143
+        height: 124
+      alignment: 9
+      pivot: {x: 0.64653623, y: 0.93152297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.02124, y: 4.1643105}
+        - {x: -25.02124, y: -2.8356895}
+        - {x: -25.02124, y: -30.83569}
+        - {x: -2.0212402, y: -30.83569}
+        - {x: 13.97876, y: -18.83569}
+        - {x: 13.97876, y: 1.1643105}
+        - {x: 10.97876, y: 4.1643105}
+    - name: SkeleboiForAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 600
+        width: 95
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4731137, y: 0.8394729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 419
+        width: 96
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6515045, y: 0.90776813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SkeleboiForAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 266
+        width: 152
+        height: 117
+      alignment: 9
+      pivot: {x: 0.65258306, y: 0.9300584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
